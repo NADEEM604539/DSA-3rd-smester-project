@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\DSA\\DSA Project\\DSA\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\DSA\\DSA Project\\DSA\\DSA\\backend\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\DSA\\DSA Project\\DSA\\DSA\\backend\\utils.py",
+              "RelativeDocumentMoniker": "backend\\utils.py",
+              "ToolTip": "C:\\Users\\HP\\Documents\\DSA\\DSA Project\\DSA\\DSA\\backend\\utils.py",
+              "RelativeToolTip": "backend\\utils.py",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXOSURBVEhLhZZdbBTXGYafM7s7610v68XGxgECuEaLAW8NCJIoCviiWErbKOlF\u002BWtuWiEuqNLetFK5iqpWvegFaq\u002BqNqoqkSrgVpWKiIqrRlDUBpRQW0YbBclbfgobLbGMvd7Z\u002BT8z5/Ri14trIvWVPs1Ic/S\u002B5zxzvjkjaCkHJNr3/08R4AJ67YNnpHVrzLFjx96am5urzM7OTtu2rSzLUs1mUy0vLyvXdVW9Xle1Wk3dvn1bzczM1M6dO3c2k8nk1/p9kRIAe/bseaFQKNTv3bv3fqlUeh1ACEEYhoRhiO/7NBoNlFI0Go3c4cOHDxSLxczly5c/AuRa02d0/Pjxt2zbDizL8jzPU57nKd/3VRAESkqppJQqiiLlOI4ql8uqVqupWq2mLl68\u002BPNEIpFb67daCYDR0dEXhBDVmzdvvjs2NvZ1KSVKKeI4xjRNDMNACEEikcCyLJRS3L17l507d5ZSqZSenp6eVUqFa81ZHXDmzJnvjIyM7C0UCv3pdJpUKoVpmgghOu8qjmMajQaDg4Nks1kMw0iPjo7uLxaL4dTU1L\u002BAeG2AQZv31atXpyYnJ98JgoClpSWWlpZYWFjAsizm5\u002BdZWlpCSonneTx48IB6vc6tW7funz179rdjY2PfBwbWmrMSAFAqlXaOj48fTCaTJJNJoigijmOklGSzWdLpNEIItm7dytDQEMPDwxw8eDB/4sSJ7ZlMpgBk/te6pQ6i4eHh5x4\u002BfFgrFosv\u002Bb5PJpPBNE26u7sxDAPDMGg2m4RhSHd3N\u002Bl0mnw\u002Bnx0ZGdnd19eXPHLkSGZxcbFSqVQWVwckafeDEGI5l8t9trIlV0KEEDQaDQqFAo7jkEhnufDxY/5WfsRnnz9BSJ\u002B0ITm8e/Op37373tah5ze95jhOZ\u002Bt2EA0ODo5t2LDh1a6uLvr6\u002Bsjn8ySTSQB6e3sBGBgYIEp103AD3n6jBFGIiEOk7/GP6U\u002BZrTwaB1IrnqwOqFQqH1YqlQu2bTM/P08cx1SrVRYWFoiiCMuyiKIIrTR/nXnAjydvIuKgVVGACn2iUJqAWB3QQXTo0KE3pZTfzOVyZDIZtNYMDQ0BoA0TP2ng\u002BRrQ/OrUS6A1luPym0v/pHK/gVABQsc0Fz9torUkuf7ql/e98u0WA\u002BDatWuTi4uL5ZMnT/7atm1M0ySRSJBMJnlv9gl/\u002Bug/yMDFiHyMyEPEAUbkYUi/vZI29toPIbBTZF95tVwu/6KDaGJi4s2jR4/\u002BNJVK0dPTQzabxTRNcrkcl2aqyLBtpAJEHCKiABGFCBUi4ugpFxlC4MLiBwBfM2gjunLlyuT58\u002Bd/srprLcvCMAw818WIfYw4YH3aYNfmAnue72P3tg3s2tbPrqFN7N25nU09NoQ\u002BRCH4DYCeDqJ9\u002B/a9GATBkNYarTVKKQyjtUDR3i0iCvnBif28PFwhZSjQCYhNiCKIA2j\u002BEZp2axVh69PUQVQulz\u002B5fv36h0opViqOY7TWpEXUxhFwaM96UnIK/A/AmQLrfahfgid/BvsTCINWQKwAvA6i/v7\u002B7h07dnSvmEspCYKAIAgY391PComIAgxDgFYQSZBBq6K2aRi0Zi4l9BwA\u002BHsHUSKR2BCGofR9H8/zME2Trq4uLMviWy9/iRd3DBBLCVqDilqcVQYK3wCxHuIYVNy6aiLypdnTp0\u002B/3Ql4/Pjx7WazOeO67vF6vU46ne50suu69AKJdKJ1FEvZqrAJ9u9bs/c92H6WjXu/u9F1XQeIHccJDIC5ublbjuNsPHDgwI/WrVuntmzZEvf29gb5fN4TQjy2bXv2zp07l27cuPFLrXREFD/FEzRh289gy/dAxZHruo7jOK7jOAGr2johhOgplUrFiYmJr2zevHnd/fv3bcuyvGq1\u002BrBarf770aNHn4dh6MRy\u002BQ9i4Z2vsnwdgmUIAsjsg2wRNr7x8brn9o87jvOFp9uKBGC265lfmdHR0QGt9QWt9bJ\u002BKldr/ZdTp07tXzv\u002Bv6t2M/alcKmuAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-12-12T18:04:09.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
